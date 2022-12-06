@@ -1,5 +1,9 @@
-#include <iostream>
+#include "Game.hpp"
 
-int main() {
-    std::cout << "Hello Easy C++ project!" << std::endl;
+int main()
+{
+    Game game;
+    game.Run();
+
+    return 0;
 }
