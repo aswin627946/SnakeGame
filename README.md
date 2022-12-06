@@ -4,6 +4,11 @@ Team Members:
 1. Medapati Aswin Reddy (Roll No - 211121)
 2. Sreekar Pisupati (Roll No - 211125)
 
+### This Game looks like:
+
+![Game preview](https://user-images.githubusercontent.com/96631440/205970072-8bab0626-6be0-4667-a3ab-c3236dfed517.gif)
+
+
 ### This game has multiple states
 
 - Main Menu State - Displays Main menu
