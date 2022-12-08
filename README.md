@@ -28,7 +28,7 @@ Team Members:
 
 ### Build Instructions
 
-- Requirements
+- Requirements(Linux Device)
   - C++ compiler
   - You Need to install Make
   - SFML libraries for Graphics
