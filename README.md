@@ -8,7 +8,6 @@ Team Members:
 
 ![Game preview](https://user-images.githubusercontent.com/96631440/205970072-8bab0626-6be0-4667-a3ab-c3236dfed517.gif)
 
-
 ### This game has multiple states
 
 - Main Menu State - Displays Main menu
@@ -23,6 +22,9 @@ Team Members:
 - Food gets randomly placed
 - Snake grows in length as it eats food
 - Each food increase Player score by 1 point.
+
+### UML:
+[Miniproject UML.pdf](https://github.com/aswin627946/SnakeGame/files/10183927/Miniproject.UML.pdf)
 
 ### Build Instructions
 
