@@ -14,7 +14,7 @@ Team Members:
 - Game Play State - The actual game play
 - Pause Game State - Pauses screen when we press escape
 - Game Over State - Displays Game over screen when snake touches the wall.
-- StateManger - To Manage the Above States.
+- StateManager - To Manage the Above States.
 
 ### Features
 
